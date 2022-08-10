@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rocha6464
 - 👀 I’m interested in developing applications and solving problems with Python and related frameworks like Django
-- 🌱 I’m currently learning Vue and HTMX
+- 🌱 I’m currently learning Alpine.js and Tailwind CSS.
 - 💞️ I’m not yet looking to collaborate on a project, but hopefully that will change soon.😊
 - 📫 How to reach me ...
 
